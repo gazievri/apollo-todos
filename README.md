@@ -1,4 +1,4 @@
-# 📜 APOLLO TODOS 
+# 📃 APOLLO TODOS 
 Проект **Apollo Todos** - это изменненный проект [Todo Apricode](https://github.com/gazievri/todo-apricode). В этом проекте для работы с api использовался GraphQL, Apollo Client и Json GraphQL Server. Основная задача данного проекта - это отработка на практике знаний по использованию GraphQL и Apollo Client.
 
 
